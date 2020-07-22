@@ -594,6 +594,9 @@ figcaption{
 	height:550px;
 	overflow:auto;
 }
+.enrique-queue-container::-webkit-scrollbar {
+	display: none;
+  }
 .similar-artists{
 	display:flex;
 	margin-bottom:5px;
