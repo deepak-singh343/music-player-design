@@ -485,13 +485,9 @@ figcaption{
 
   /* Single Screen playlist*/
 
-  .single-main-container {
-	width:74%;
-	display: inline-block;
-	vertical-align: top;
-	overflow:auto;
-	height:480px;
-}
+.enrique-main-container::-webkit-scrollbar {
+	display: none;
+  }
 
 .enrique-main-container {
 	width:74%;
